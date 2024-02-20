@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>Website Lorem</title>
+    <link></link>
+    <description>Lorem site</description>
+  <item>
+    <title>Articulo 1</title>
+    <link></link>
+    <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce feugiat justo vel libero vulputate, in tempus augue consectetur. Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam nobis corporis eveniet et officiis facere eius adipisci, harum illum modi qui fuga itaque perferendis fugit totam, velit accusantium obcaecati! Pariatur.</description>
+</item>
+
+  <item>
+    <title>Articulo 2</title>
+    <link></link>
+    <description>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Minima alias ipsam neque inventore tempore doloribus natus perspiciatis deleniti culpa aliquam, ea, delectus ratione ex illo recusandae et optio laboriosam tenetur!Lorem</description>
+  </item>
+  <item>
+    <title>Articulo 3</title>
+    <link></link>
+    <description>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quisquam in neque beatae velit! Modi doloribus enim sequi itaque pariatur eos tempore quisquam voluptas similique animi! Laborum sit facilis laboriosam debitis.</description>
+  </item>
+</channel>
+</rss>
